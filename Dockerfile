@@ -3,7 +3,7 @@
 # See README.md for build & use instructions
 #=============================================================
 
-FROM ubuntu:18.04
+FROM ubuntu:18.10
 
 #=============================================================
 # Packages required for container setup
